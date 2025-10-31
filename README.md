@@ -7,7 +7,7 @@ Advanced invisibility script with intuitive mobile and PC controls.
 Copy and paste this code into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/GhostHub/refs/heads/main/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Invisible/refs/heads/main/source"))()
 ```
 ## Features
 
